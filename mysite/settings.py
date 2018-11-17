@@ -25,7 +25,7 @@ SECRET_KEY = '4+if3_!kt^^n-kekza1iu=+(lxtu3g7j3-!a7#2aei)otifgp_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fabscapi.pythonanywhere.com','*']
 
 
 # Application definition
